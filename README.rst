@@ -2,7 +2,7 @@
 
 ----
 
-.. figure:: https://search.centauricorex.net/searxng/static/themes/simple/img/searxng.png
+.. figure:: https://search.centauricorex.net/searxng/static/themes/simple/img/searxng.svg
    :target: https://docs.searxng.org/
    :alt: CBSX
    :width: 100%
