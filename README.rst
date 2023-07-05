@@ -2,9 +2,9 @@
 
 ----
 
-.. figure:: https://raw.githubusercontent.com/searxng/searxng/master/src/brand/searxng.svg
+.. figure:: https://search.centauricorex.net/searxng/static/themes/simple/img/searxng.png
    :target: https://docs.searxng.org/
-   :alt: SearXNG
+   :alt: CBSX
    :width: 100%
    :align: center
 
@@ -16,14 +16,14 @@ Searx.space_ lists ready-to-use running instances.
 
 A user_, admin_ and developer_ handbook is available on the homepage_.
 
-|SearXNG install|
-|SearXNG homepage|
-|SearXNG wiki|
+|CBSX install|
+|CBSX homepage|
+|CBSX wiki|
 |AGPL License|
 |Issues|
 |commits|
 |weblate|
-|SearXNG logo|
+|CBSX logo|
 
 ----
 
@@ -34,17 +34,16 @@ A user_, admin_ and developer_ handbook is available on the homepage_.
 .. _homepage: https://docs.searxng.org/
 .. _metasearch engine: https://en.wikipedia.org/wiki/Metasearch_engine
 
-.. |SearXNG logo| image:: https://raw.githubusercontent.com/searxng/searxng/master/src/brand/searxng-wordmark.svg
-   :target: https://docs.searxng.org/
+.. |CBSX logo| image:: https://search.centauricorex.net/searxng/static/themes/simple/img/searxng.png
    :width: 5%
 
-.. |SearXNG install| image:: https://img.shields.io/badge/-install-blue
+.. |CBSX install| image:: https://img.shields.io/badge/-install-blue
    :target: https://docs.searxng.org/admin/installation.html
 
-.. |SearXNG homepage| image:: https://img.shields.io/badge/-homepage-blue
+.. |CBSX homepage| image:: https://img.shields.io/badge/-homepage-blue
    :target: https://docs.searxng.org/
 
-.. |SearXNG wiki| image:: https://img.shields.io/badge/-wiki-blue
+.. |CBSX wiki| image:: https://img.shields.io/badge/-wiki-blue
    :target: https://github.com/searxng/searxng/wiki
 
 .. |AGPL License|  image:: https://img.shields.io/badge/license-AGPL-blue.svg
@@ -66,21 +65,17 @@ A user_, admin_ and developer_ handbook is available on the homepage_.
 Contact
 =======
 
-Ask questions or just chat about SearXNG on
-
-IRC
-  `#searxng on libera.chat <https://web.libera.chat/?channel=#searxng>`_
-  which is bridged to Matrix.
+Ask questions or just chat about CBSX on
 
 Matrix
-  `#searxng:matrix.org <https://matrix.to/#/#searxng:matrix.org>`_
+  `#cbsx:matrix.org <https://matrix.to/#/#cbsx:raccoon.draggane.com>`_
 
 Differences to searx
 ====================
 
-SearXNG is a fork of `searx`_, with notable changes:
+CBSX is a fork of `searxng`_, with notable changes:
 
-.. _searx: https://github.com/searx/searx
+.. _searx: https://github.com/searxng/searxng
 
 
 User experience
@@ -118,7 +113,6 @@ Setup
 - A well maintained `Docker image`_, now also built for ARM64 and ARM/v7 architectures.
   (Alternatively there are up to date installation scripts.)
 
-.. _Docker image: https://github.com/searxng/searxng-docker
 
 
 Contributing
@@ -139,7 +133,7 @@ Contributing
 Translations
 ============
 
-Help translate SearXNG at `Weblate`_
+Help translate CBSX at `Weblate`_
 
 .. figure:: https://translate.codeberg.org/widgets/searxng/-/multi-auto.svg
    :target: https://translate.codeberg.org/projects/searxng/
