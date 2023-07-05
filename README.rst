@@ -47,16 +47,16 @@ A user_, admin_ and developer_ handbook is available on the homepage_.
    :target: https://github.com/searxng/searxng/wiki
 
 .. |AGPL License|  image:: https://img.shields.io/badge/license-AGPL-blue.svg
-   :target: https://github.com/searxng/searxng/blob/master/LICENSE
+   :target: https://github.com/TheSL18/CBSX/blob/master/LICENSE
 
 .. |Issues| image:: https://img.shields.io/github/issues/searxng/searxng?color=yellow&label=issues
-   :target: https://github.com/searxng/searxng/issues
+   :target: https://github.com/TheSL18/CBSX/issues
 
 .. |PR| image:: https://img.shields.io/github/issues-pr-raw/searxng/searxng?color=yellow&label=PR
-   :target: https://github.com/searxng/searxng/pulls
+   :target: https://github.com/TheSL18/CBSX/pulls
 
 .. |commits| image:: https://img.shields.io/github/commit-activity/y/searxng/searxng?color=yellow&label=commits
-   :target: https://github.com/searxng/searxng/commits/master
+   :target: https://github.com/TheSL18/CBSX/commits/master
 
 .. |weblate| image:: https://translate.codeberg.org/widgets/searxng/-/searxng/svg-badge.svg
    :target: https://translate.codeberg.org/projects/searxng/
